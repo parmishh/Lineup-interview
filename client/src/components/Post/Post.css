@@ -1,0 +1,99 @@
+.Post
+{
+   
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    background-color: var(--cardColor);
+    border-radius: 1rem;
+    gap: 1rem;
+}
+
+.Post>img{
+    width: 100%;
+    max-height: 20rem;
+    object-fit: cover;
+    border-radius: 0.5rem;
+}
+
+.postReact{
+    display: flex;
+    align-items: flex-start;
+    gap: 1.5rem;
+}
+.nn{
+   /*height: 10rem;
+   width: 30rem;*/
+   height: fit-content;
+   width: fit-content;
+   
+   
+   
+   
+
+
+   
+}
+.nj{
+   
+    max-width: 35.5rem;
+    min-width:35rem;
+    height: fit-content;
+    width: fit-content;
+   
+ 
+    
+    
+    
+ 
+ 
+    
+ }
+
+ .tooltip-arrow,
+.red-tooltip + .tooltip > .tooltip-inner {background-color: #f00;}
+
+
+
+.lk {
+    height: 1.2em;
+    width: 0rem;
+    padding-top: 1rem;
+    padding: 3px;
+    margin-left:-28px;
+    color:bisque;
+   
+    background-color:rgb(24, 21, 21);
+   
+    transition: all 0.5s ease;
+   
+  
+}
+
+.lk:focus {
+    height: 10rem;
+    width: 18rem;
+}
+
+.lk:single-button{
+    position:absolute;
+    top:0;
+    right:0;
+
+}
+
+
+.newlk{
+
+    border: 1px solid gray; width: 15em; height: 5em; overflow-y: scroll;}
+
+.but {float: right;}
+
+
+
+.decrease{
+  
+       margin-left:-18px;
+        
+      
+}
