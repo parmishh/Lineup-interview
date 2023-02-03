@@ -20,4 +20,4 @@ const postSchema = mongoose.Schema(
 
 var PostModel = mongoose.model("Posts", postSchema);
 
-export default PostModel;
+export default PostModel  ;
