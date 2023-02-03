@@ -42,4 +42,4 @@ const Post = ({ data }) => {
   );
 };
 
-export default Post;
+export default Post  ;
